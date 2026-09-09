@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+mlflow.db
+mlartifacts/
+mlruns/
+model.pkl
+confusion_matrix.png
+balanced_confusion_matrix.png
+feature_importance.png
+data/*.csv
